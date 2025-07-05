@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmall</h1>
+<div align="center">
+  <img width="140" src="hei.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile</h2>
+</div>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmall-sec&label=Profile%20views&color=0e75b6&style=flat" alt="ahmall-sec" /> </p>
