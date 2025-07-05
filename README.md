@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="140" src="image/Hei.png"  alt="GitHub Profile Trophy"/>
+  <img width="600" src="image/Hei.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile</h2>
 </div>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
